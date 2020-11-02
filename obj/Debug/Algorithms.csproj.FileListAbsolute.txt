@@ -1,0 +1,6 @@
+C:\Users\JGB\source\repos\Algorithms\bin\Debug\Algorithms.dll
+C:\Users\JGB\source\repos\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\JGB\source\repos\Algorithms\obj\Debug\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\JGB\source\repos\Algorithms\obj\Debug\Algorithms.dll
+C:\Users\JGB\source\repos\Algorithms\obj\Debug\Algorithms.pdb
+C:\Users\JGB\source\repos\Algorithms\obj\Debug\Algorithms.csprojAssemblyReference.cache

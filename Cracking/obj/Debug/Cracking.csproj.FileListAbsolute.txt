@@ -1,0 +1,12 @@
+C:\Users\JGB\source\repos\Cracking\bin\Debug\Cracking.dll
+C:\Users\JGB\source\repos\Cracking\bin\Debug\Cracking.pdb
+C:\Users\JGB\source\repos\Cracking\obj\Debug\Cracking.csprojAssemblyReference.cache
+C:\Users\JGB\source\repos\Cracking\obj\Debug\Cracking.csproj.CoreCompileInputs.cache
+C:\Users\JGB\source\repos\Cracking\obj\Debug\Cracking.dll
+C:\Users\JGB\source\repos\Cracking\obj\Debug\Cracking.pdb
+C:\Users\JGB\source\repos\Algorithms_DataStructure\Cracking\bin\Debug\Cracking.dll
+C:\Users\JGB\source\repos\Algorithms_DataStructure\Cracking\bin\Debug\Cracking.pdb
+C:\Users\JGB\source\repos\Algorithms_DataStructure\Cracking\obj\Debug\Cracking.csprojAssemblyReference.cache
+C:\Users\JGB\source\repos\Algorithms_DataStructure\Cracking\obj\Debug\Cracking.csproj.CoreCompileInputs.cache
+C:\Users\JGB\source\repos\Algorithms_DataStructure\Cracking\obj\Debug\Cracking.dll
+C:\Users\JGB\source\repos\Algorithms_DataStructure\Cracking\obj\Debug\Cracking.pdb

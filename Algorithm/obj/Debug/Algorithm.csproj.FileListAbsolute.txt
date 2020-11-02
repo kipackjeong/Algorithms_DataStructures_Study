@@ -1,0 +1,5 @@
+C:\Users\JGB\source\repos\Algorithms_DataStructure\Algorithm\bin\Debug\Algorithm.dll
+C:\Users\JGB\source\repos\Algorithms_DataStructure\Algorithm\bin\Debug\Algorithm.pdb
+C:\Users\JGB\source\repos\Algorithms_DataStructure\Algorithm\obj\Debug\Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\JGB\source\repos\Algorithms_DataStructure\Algorithm\obj\Debug\Algorithm.dll
+C:\Users\JGB\source\repos\Algorithms_DataStructure\Algorithm\obj\Debug\Algorithm.pdb
